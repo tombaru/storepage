@@ -1,5 +1,5 @@
 {
-  "name": "Store",
+  "name": "storepage",
   "description": "LoftSchool #2",
   "main": "gulpfile.js",
   "authors": [
@@ -11,7 +11,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
+    "bower",
     "- dev/bower",
     "test",
     "tests"
