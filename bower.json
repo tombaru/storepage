@@ -1,12 +1,12 @@
 {
-  "name": "True Shop",
-  "description": "LoftSchool Project #2",
+  "name": "Store",
+  "description": "LoftSchool #2",
   "main": "gulpfile.js",
   "authors": [
-    "Valery Litvinchuk"
+    "Pavel Efimov"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/valerylitvinchuk/trueshop",
+  "homepage": "https://github.com/tombaru/storepage",
   "moduleType": [],
   "ignore": [
     "**/.*",

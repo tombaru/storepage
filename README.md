@@ -1,37 +1,30 @@
 # Второй выпускной проект LoftSchool
 ## Для установки приложения выполните следующие команды
 
-> Клонируйте текущий репозиторий
 
 ```
- $ git clone https://github.com/valerylitvinchuk/trueshop.git shop
+ $ git clone https://github.com/tombaru/storepage.git storepage
 ```
-> Перейдите в папку
 
 ```
- $ cd shop
+ $ cd storepage
 ```
-> Установите **bower**
 
 ```
  $ bower install
 ```
-> Установите **compass**
 
 ```
  $ gem install compass
 ```
-> Установите **sass**
 
 ```
  $ gem install sass-globbing
 ```
-> Установите **npm**
 
 ```
  $ npm install
 ```
-> Запустите **gulp**
 
 ```
  $ gulp

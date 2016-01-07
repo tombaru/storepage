@@ -1,13 +1,13 @@
 {
   "name": "loft-template",
   "version": "1.0.0",
-  "description": "template for good works",
+  "description": "LoftSchool #2",
   "main": "gulpfile.js",
-  "repository": "https://github.com/wowua/loftschool-template",
+  "repository": "https://github.com/tombaru/storepage",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vladimir Sabantsev",
+  "author": "Efimov Pavel",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.9.7",
